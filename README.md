@@ -24,13 +24,13 @@ High Value, Frequent Shoppers were highly responsive to discounts, leading to a 
 
 Low Value, Dormant Shoppers did not show significant improvement, suggesting a different approach might be more suitable for re-engagement.
 
-Technologies Used
+## Technologies Used
 
 Python: Data processing, clustering (using scikit-learn), A/B testing (using scipy).
 
 Tableau: Visualizations to present the distribution of customer segments, average order values, and total orders.
 
-Repository Structure
+### Repository Structure
 
 notebooks/: Contains the Jupyter notebooks used for data preparation, clustering, and A/B testing analysis.
 
@@ -38,13 +38,13 @@ reports/: Includes the project report detailing the methodology, results, and re
 
 visualizations/: Tableau visualizations used to summarize insights.
 
-Results
+## Results
 
 Increased Engagement: High-value shoppers showed a significant response to discounts, driving higher average order values.
 
 Actionable Insights: Provided recommendations for targeted promotions for different customer segments to maximize ROI.
 
-How to Run
+## How to Run
 
 Clone the repository.
 
